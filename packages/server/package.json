@@ -7,6 +7,9 @@
 	"dependencies": {
 		"express": "^4.17.1"
 	},
+	"engines": {
+		"node": "17.x"
+	},
 	"devDependencies": {
 		"@babel/core": "^7.15.8",
 		"@babel/preset-env": "^7.15.8",
