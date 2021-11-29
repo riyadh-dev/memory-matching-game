@@ -7,9 +7,6 @@
 	"version": "0.1.0",
 	"author": "Baatchia Riyadh",
 	"license": "MIT",
-	"engines": {
-		"node": "17.x"
-	},
 	"devDependencies": {
 		"concurrently": "^6.3.0",
 		"cspell": "^5.12.6",
