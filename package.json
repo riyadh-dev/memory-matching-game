@@ -1,5 +1,6 @@
 {
 	"name": "memory-matching-game",
+	"homepage": "https://riyadh-dev.github.io/memory-matching-game",
 	"version": "0.1.0",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
@@ -20,6 +21,7 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
+		"deploy": "gh-pages -d build",
 		"eject": "react-scripts eject",
 		"serve": "serve -s build",
 		"prepare": "husky install"
@@ -43,6 +45,7 @@
 		"cz-conventional-changelog": "3.3.0",
 		"husky": "^8.0.1",
 		"lint-staged": "^13.0.3",
-		"prettier": "^2.7.1"
+		"prettier": "^2.7.1",
+		"gh-pages": "4.0.0"
 	}
 }

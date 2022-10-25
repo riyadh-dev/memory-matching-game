@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.30b85a3b.css",
-    "main.js": "/static/js/main.f99cd38d.js",
-    "index.html": "/index.html",
-    "main.30b85a3b.css.map": "/static/css/main.30b85a3b.css.map",
-    "main.f99cd38d.js.map": "/static/js/main.f99cd38d.js.map"
+    "main.css": "/memory-matching-game/static/css/main.30b85a3b.css",
+    "main.js": "/memory-matching-game/static/js/main.f99cd38d.js",
+    "index.html": "/memory-matching-game/index.html",
+    "main.30b85a3b.css.map": "/memory-matching-game/static/css/main.30b85a3b.css.map",
+    "main.f99cd38d.js.map": "/memory-matching-game/static/js/main.f99cd38d.js.map"
   },
   "entrypoints": [
     "static/css/main.30b85a3b.css",
